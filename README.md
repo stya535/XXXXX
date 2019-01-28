@@ -1,1 +1,1 @@
-# 🕵 SELFBOT-BY:MAX 🕵
+OLEH:TEGUH 
