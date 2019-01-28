@@ -1,5 +1,5 @@
-import KIA
-from KIA import *
+import TEGUH
+dari  impor TEGUH  * 
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
